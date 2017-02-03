@@ -25,3 +25,7 @@ li a {
 li a:hover {
     background-color: #111;
 }
+#logo
+{
+    padding: 20px 20px 0 20px;
+}
